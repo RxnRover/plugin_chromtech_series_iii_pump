@@ -7,9 +7,9 @@ using a spreadsheet program.
 
 ## Installation
 
-1. Download the latest `.vip` installer from the [Releases page](https://github.com/RxnRover/plugin_chromtech_series_iii_pump/releases).  
-2. Double-click the downloaded `.vip` file to install it with VIPM.
-3. Ensure you have also installed the subsequent  [Drivers](https://github.com/RxnRover/driver_chromtech_series_iii/releases).  
+1. Install the required [driver](https://github.com/RxnRover/driver_chromtech_series_iii/releases).
+2. Download the latest `.vip` installer from the [Releases page](https://github.com/RxnRover/plugin_chromtech_series_iii_pump/releases).  
+3. Double-click the downloaded `.vip` file to install it with VIPM.
 
 ### Manual Installation (optional)
 
