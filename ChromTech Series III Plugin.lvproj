@@ -15,10 +15,10 @@
 		<Item Name="ChromTech Series III Plugin.lvlib" Type="Library" URL="../ChromTech Series III Plugin.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="ChromTech Series III Pump.lvlib" Type="Library" URL="/&lt;instrlib&gt;/ChromTech Series III Pump/ChromTech Series III Pump.lvlib"/>
+				<Item Name="ChromTech Series III Pump.lvlib" Type="Library" URL="/&lt;instrlib&gt;/RxnRover/ChromtechSeriesIIIDriver/ChromTech Series III Pump.lvlib"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="Dynamic Reentrant.lvlib" Type="Library" URL="/&lt;userlib&gt;/Dynamic Reentrant/Dynamic Reentrant.lvlib"/>
+				<Item Name="Dynamic Reentrant.lvlib" Type="Library" URL="/&lt;userlib&gt;/RxnRover/DynamicReentrant/Dynamic Reentrant.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
